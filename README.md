@@ -22,8 +22,7 @@ Any actions performed by users through this exit relay are the sole responsibili
 ## Contact Information
 For any inquiries, abuse reports, or legal requests related to this relay, please contact:
 
-**Email:** your.email@example.com  
-**Location:** [Your jurisdiction or country, optional]
+**Email:** torvps89@proton.me
 
 ## Additional Notes
 - This relay is operated in good faith to support internet privacy and freedom of speech globally.  
@@ -36,4 +35,4 @@ For any inquiries, abuse reports, or legal requests related to this relay, pleas
 
 > This server operates as a Tor exit relay node. It forwards anonymized traffic for users of the Tor network. The operator does not control or endorse any content passing through this node and disclaims all liability for user activity. Logs are limited and do not contain user-identifying information.  
 >  
-> Contact: your.email@example.com
+> Contact: torvps89@proton.me
